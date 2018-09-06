@@ -28,7 +28,13 @@ hasil Latihan 6<br>
 ![alt text](https://github.com/mesati/jobsheet5/blob/master/6.PNG)
 <br>
 hasil Praktikum<br>
-![alt text](https://github.com/mesati/jobsheet5/blob/master/pra1.PNG)
+![alt text](https://github.com/mesati/jobsheet5/blob/master/catch.PNG)
 <br>
-![alt text](https://github.com/mesati/jobsheet5/blob/master/pra2.PNG)
+![alt text](https://github.com/mesati/jobsheet5/blob/master/finaly.PNG)
+<br>
+![alt text](https://github.com/mesati/jobsheet5/blob/master/throw.PNG)
+<br>
+![alt text](https://github.com/mesati/jobsheet5/blob/master/throws.PNG)
+<br>
+![alt text](https://github.com/mesati/jobsheet5/blob/master/try.PNG)
 <br>
